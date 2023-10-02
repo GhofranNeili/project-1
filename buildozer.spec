@@ -48,7 +48,7 @@ requirements = python3==3.7.6,hostpython3==3.7.6, kivy, pillow
 #presplash.filename = /home/ghofran/.local/lib/python3.10/site-packages
 
 # (str) Icon of the application
-icon.filename = /home/ghofran/Bureau/Internship_Ghofran_MobileApp/icon.png
+icon.filename =  %(source.dir)s/images/icon.png
 
 # (list) Supported orientations
 # Valid options are: landscape, portrait, portrait-reverse or landscape-reverse
